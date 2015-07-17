@@ -1,0 +1,6 @@
+{
+   "intent": {
+        "action" : "android.intent.action.VIEW",
+        "uri" : "https://github.com/8tory/json2intent"
+   }
+}

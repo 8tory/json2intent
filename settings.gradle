@@ -1,0 +1,2 @@
+include ':json2intent'
+include ':json2intent-app'
